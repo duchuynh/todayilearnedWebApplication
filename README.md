@@ -1,5 +1,7 @@
 Please note that the application does not display the facts anymore because Supabase pauses its services after 7 days. I only found out about this after completion of the project, and to continue displaying would mean I would need to subscribe to the service. Thanks for understanding!
 
+In the meantime, watch these 3 videos that I made to serve as a walkthrough of the web application! GitHub has video sizing limits, so there are 3 consecutive 1 min videos to watch.
+
 
 
 https://github.com/user-attachments/assets/efef7e79-fe8d-4665-a3b4-1490e9f709cf
